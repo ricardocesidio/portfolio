@@ -33,11 +33,8 @@ project:
   status: "production"
 ```
 
-</div>
 
 ---
-
-<div align="center">
 
 ## 📋 About
 
@@ -45,7 +42,7 @@ A **cyberpunk-themed portfolio website** built as a single `index.html` file —
 
 The design combines retro-futuristic cyberpunk aesthetics with modern web techniques: canvas-based particle systems, CSS 3D transforms, backdrop filters, and intersection-driven animations. Every section is designed to feel like a high-tech system interface.
 
-</div>
+
 
 ---
 
@@ -66,11 +63,9 @@ The design combines retro-futuristic cyberpunk aesthetics with modern web techni
 | **Progress Bar** | Fixed gradient bar with accent colors synced to visible project section |
 | **Scanlines** | Repeating linear gradient overlay at 4px intervals |
 
-</div>
 
 ---
 
-<div align="center">
 
 ## 🛠 Built With
 
@@ -80,7 +75,7 @@ The design combines retro-futuristic cyberpunk aesthetics with modern web techni
 ![Canvas API](https://img.shields.io/badge/Canvas_API-00f0ff?style=for-the-badge&logo=html5&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-</div>
+
 
 ---
 
@@ -99,11 +94,9 @@ open portfolio/index.html
 https://portfolio-xi-one-5uqk228i5s.vercel.app
 ```
 
-</div>
 
 ---
 
-<div align="center">
 
 ## 📱 Responsive Breakpoints
 
@@ -113,11 +106,10 @@ https://portfolio-xi-one-5uqk228i5s.vercel.app
 | ≤ 920px | Single column, nav links hidden, phone mockup hidden |
 | ≤ 560px | Compact padding, stacked grids, url bar hidden |
 
-</div>
+
 
 ---
 
-<div align="center">
 
 ## 📬 Contact
 
@@ -125,11 +117,8 @@ https://portfolio-xi-one-5uqk228i5s.vercel.app
 [![LinkedIn](https://img.shields.io/badge/linkedin.com/in/ricardocesidio-b300ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardocesidio)
 [![GitHub](https://img.shields.io/badge/github.com/ricardocesidio-ff0066?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ricardocesidio)
 
-</div>
 
 <br>
-
-<div align="center">
 
 ```
 ─────── BUILDING POLISHED WEB APPLICATIONS ───────
