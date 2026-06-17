@@ -2,17 +2,14 @@
 
 ```
 ╔══════════════════════════════════════════════════════╗
-║  ██████  ██████  ██████  ██████  ██████  ██████   ██║
-║  ██  ██ ██  ██ ██  ██ ██  ██ ██  ██ ██  ██ ██    ║
-║  ██████  ██████  ██████  ██████  ██████  ██████   ██║
-║  ██      ██  ██ ██  ██ ██  ██ ██  ██ ██  ██ ██    ║
-║  ██      ██  ██ ██  ██ ██  ██ ██  ██ ██████   ██████║
+║               PORTFOLIO // SYSTEM v2                ║
+║           Front-End Engineer — Cyberpunk            ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
 # 💻 **Ricardo Cesídio** — Portfolio
 
-### Front-End Engineer · React · TypeScript · AI-Enhanced Workflow
+### Single-file cyberpunk portfolio built with HTML, CSS & JavaScript
 
 [![Live Site](https://img.shields.io/badge/LIVE_SITE-00f0ff?style=for-the-badge&logo=vercel&logoColor=black)](https://ricardocesidio.vercel.app)
 [![GitHub](https://img.shields.io/badge/SOURCE-b300ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ricardocesidio/portfolio)
@@ -21,18 +18,18 @@
 project:
   name: "Ricardo Cesídio — Portfolio"
   type: "Single Page Application"
-  tech: ["HTML", "CSS", "JavaScript", "Canvas API"]
+  build: "Zero dependencies · Single HTML file"
   features:
-    - "3D particle starfield with mouse interaction"
-    - "Digital rain overlay (katakana matrix)"
+    - "160-particle starfield with mouse interaction"
     - "3D perspective grid with wave animation"
+    - "Japanese katakana digital rain overlay"
     - "Animated skill bars with scroll trigger"
-    - "Career timeline with scroll reveal"
+    - "Career timeline with intersection observer"
     - "3D tilt effect on project mockups"
-    - "Cyberpunk neon design system"
-    - "Typewriter terminal effect"
-    - "Scroll progress indicator"
-    - "Full responsive (mobile optimized)"
+    - "Typewriter terminal effect in hero"
+    - "Glitch text on name hover"
+    - "Scroll progress bar with dynamic accent colors"
+    - "CRT scanlines and noise overlays"
   status: "production"
 ```
 
@@ -44,9 +41,9 @@ project:
 
 ## 📋 About
 
-A **cyberpunk-themed portfolio** built as a single HTML file — zero dependencies, zero build tools. Open it in any browser and it just works.
+A **cyberpunk-themed portfolio website** built as a single `index.html` file — zero dependencies, zero build tools, zero configuration. Open it in any browser and it works immediately.
 
-The design draws from retro-futuristic, cyberpunk, and neon aesthetics with a dark immersive background, glowing accents, and layered visual effects. Every section is crafted to feel like a high-tech system interface rather than a traditional portfolio.
+The design combines retro-futuristic cyberpunk aesthetics with modern web techniques: canvas-based particle systems, CSS 3D transforms, backdrop filters, and intersection-driven animations. Every section is designed to feel like a high-tech system interface.
 
 </div>
 
@@ -56,18 +53,18 @@ The design draws from retro-futuristic, cyberpunk, and neon aesthetics with a da
 
 ## ⚡ Features
 
-| Effect | Description |
-|--------|-------------|
-| **Particle Field** | 160 particles with mouse interaction, color cycling, and connection lines |
-| **3D Grid** | Perspective grid with undulating wave animation |
-| **Digital Rain** | Japanese katakana matrix rain overlay |
-| **Typewriter** | Cycling terminal commands in the hero |
-| **Glitch Text** | Hover distortion on the name |
-| **Skill Matrix** | Categorized animated skill bars |
-| **Career Timeline** | Animated scroll-reveal timeline |
-| **3D Tilt** | Project mockups track mouse rotation |
-| **Progress Bar** | Gradient progress with accent color shifting |
-| **Scanlines + Noise** | CRT texture overlays for retro feel |
+| Effect | Implementation |
+|--------|---------------|
+| **Particle Field** | Canvas API — 160 particles with HSL color cycling, mouse proximity glow, and connection lines |
+| **3D Grid** | Canvas API — perspective grid with sinusoidal wave deformation |
+| **Digital Rain** | Canvas API — Japanese katakana matrix-style column drops |
+| **Typewriter** | JavaScript cycling through 6 terminal-style phrases with blinking cursor |
+| **Glitch Text** | CSS pseudo-elements with offset animation on hover |
+| **Skill Bars** | Scroll-triggered animated fill using inline styles and IntersectionObserver |
+| **Timeline** | Staggered fade-in with IntersectionObserver and neon dot indicators |
+| **3D Tilt** | Mouse-driven CSS rotateX/rotateY transforms on project device mockups |
+| **Progress Bar** | Fixed gradient bar with accent colors synced to visible project section |
+| **Scanlines** | Repeating linear gradient overlay at 4px intervals |
 
 </div>
 
@@ -92,14 +89,15 @@ The design draws from retro-futuristic, cyberpunk, and neon aesthetics with a da
 ## 🚀 Quick Start
 
 ```bash
-# Clone the repo
+# Clone
 git clone https://github.com/ricardocesidio/portfolio.git
 
-# Open in browser (no build step needed)
-open index.html
-```
+# Open (no build step)
+open portfolio/index.html
 
-No dependencies. No build tools. No configuration.
+# Or just visit
+https://ricardocesidio.vercel.app
+```
 
 </div>
 
@@ -107,13 +105,13 @@ No dependencies. No build tools. No configuration.
 
 <div align="center">
 
-## 📱 Responsive
+## 📱 Responsive Breakpoints
 
-Optimized for desktop, tablet, and mobile:
-
-- **Desktop** — Full 3D effects, tilt, particles, grid
-- **Tablet/920px** — Single column layout, simplified navigation
-- **Mobile/560px** — Compact padding, stacked grids, hidden extras
+| Breakpoint | Behavior |
+|-----------|----------|
+| > 920px | Full layout with 3D effects, tilt, particles, two-column grid |
+| ≤ 920px | Single column, nav links hidden, phone mockup hidden |
+| ≤ 560px | Compact padding, stacked grids, url bar hidden |
 
 </div>
 
