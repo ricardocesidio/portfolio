@@ -1,11 +1,5 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║               PORTFOLIO // SYSTEM v2                ║
-║           Front-End Engineer — Cyberpunk            ║
-╚══════════════════════════════════════════════════════╝
-```
 
 # 💻 **Ricardo Cesídio** — Portfolio
 
@@ -13,26 +7,6 @@
 
 [![Live Site](https://img.shields.io/badge/LIVE_SITE-00f0ff?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-xi-one-5uqk228i5s.vercel.app)
 [![GitHub](https://img.shields.io/badge/SOURCE-b300ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ricardocesidio/portfolio)
-
-```yaml
-project:
-  name: "Ricardo Cesídio — Portfolio"
-  type: "Single Page Application"
-  build: "Zero dependencies · Single HTML file"
-  features:
-    - "160-particle starfield with mouse interaction"
-    - "3D perspective grid with wave animation"
-    - "Japanese katakana digital rain overlay"
-    - "Animated skill bars with scroll trigger"
-    - "Career timeline with intersection observer"
-    - "3D tilt effect on project mockups"
-    - "Typewriter terminal effect in hero"
-    - "Glitch text on name hover"
-    - "Scroll progress bar with dynamic accent colors"
-    - "CRT scanlines and noise overlays"
-  status: "production"
-```
-
 
 ---
 
@@ -120,9 +94,5 @@ https://portfolio-xi-one-5uqk228i5s.vercel.app
 
 <br>
 
-```
-─────── BUILDING POLISHED WEB APPLICATIONS ───────
-    Clean code · Strong UX · AI-Assisted Workflows
-```
 
 </div>
