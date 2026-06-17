@@ -11,7 +11,7 @@
 
 ### Single-file cyberpunk portfolio built with HTML, CSS & JavaScript
 
-[![Live Site](https://img.shields.io/badge/LIVE_SITE-00f0ff?style=for-the-badge&logo=vercel&logoColor=black)](https://ricardocesidio.vercel.app)
+[![Live Site](https://img.shields.io/badge/LIVE_SITE-00f0ff?style=for-the-badge&logo=vercel&logoColor=black)]([https://ricardocesidio.vercel.app](https://portfolio-xi-one-5uqk228i5s.vercel.app/))
 [![GitHub](https://img.shields.io/badge/SOURCE-b300ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ricardocesidio/portfolio)
 
 ```yaml
